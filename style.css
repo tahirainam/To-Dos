@@ -62,3 +62,9 @@ li .delete {
     cursor: pointer;
     font-size: 20px;
 }
+@media screen and (max-width: 600px) {
+    input[type="text"] {
+        width: 60%; /* Adjust input width for small screens */
+    }
+}
+/*end here*/

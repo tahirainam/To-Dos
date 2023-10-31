@@ -14,3 +14,4 @@ function addTask() {
 function deleteTask(element) {
     element.parentElement.remove();
 }
+//end here
