@@ -5,7 +5,7 @@ function addTask() {
 
     if (taskInput.value.trim() !== "") {
         var li = document.createElement("li");
-        li.innerHTML = `<span>${taskInput.value}</span> <span class="delete" onclick="deleteTask(this)">❌</span>`;
+        li.innerHTML = `<span>${taskInput.value}</span> <span class="delete" onclick="deleteTask(this)">✖</span>`;
         taskList.appendChild(li);
         taskInput.value = "";
     }
