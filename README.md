@@ -1,4 +1,4 @@
 # To-Dos
-Author: Inahira
+Author: Tahira Inam
 
-A responsive To-Do list app i have been created during my javaScript training.
+A responsive To-Do list app
